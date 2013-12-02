@@ -16,3 +16,6 @@
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/opscode-cookbooks/openssl
+[submodule "yum"]
+	path = yum
+	url = https://github.com/opscode-cookbooks/yum.git
