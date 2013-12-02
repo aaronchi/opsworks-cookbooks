@@ -19,3 +19,6 @@
 [submodule "yum"]
 	path = yum
 	url = https://github.com/opscode-cookbooks/yum.git
+[submodule "opsworks-rails-precompile"]
+	path = opsworks-rails-precompile
+	url = https://github.com/swrobel/opsworks-rails-precompile.git
